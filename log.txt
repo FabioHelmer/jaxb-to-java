@@ -1,0 +1,2 @@
+Command 'xjc -p OUT.S1260 XSD/nt032025/evtComProd.xsd -encoding UTF-8' returned non-zero exit status 4294967295. 
+Command 'xjc -p OUT.S1280 XSD/nt032025/evtInfoComplPer.xsd -encoding UTF-8' returned non-zero exit status 4294967295. 
